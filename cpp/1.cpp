@@ -41,25 +41,43 @@ int main() {
 }
 */
 
+/*
 // 1-3 문자형 자료형과 bool형 자료형
 #include <iostream>
 
 using namespace std;
 
 int main() {
+    //bool : 0 혹은 1
+    
+    bool a = 0;
+    bool b = 1;
+    bool c = 10;
 
-    int a = 77;
-    char b = a;
-    cout << b << endl;
+    cout << "a = " << a << " b = " << b << " c = " << c << endl;
 
-    // 직접 문자를 입력하는 방식은 작은따옴표(' ') 사용.
-    // 1. 바로 집어넣기
-    char c = 'a';
-    cout << c << endl;
-    // 2. 변수를 선언하고 집어넣기
-    char d;
-    d = 'b';
-    cout << d << endl;
+    return 0;
+}
+*/
+
+// 1-4 const 제한자와 데이터형 변환
+#include <iostream>
+
+using namespace std;
+
+int main() {
+    // 데이터형 변환
+    int a = 3.141592;
+    cout << a << endl;
+
+    // 강제적으로 데이터형 변환
+    // typeName(a) (typeName)a
+    char ch = 'M';
+    cout << (int)ch << " " << int(ch) << endl;
+
+    // C++
+    // static_cast<typeName>
+    cout << (int)ch << " " << int(ch) << " " << static_cast<int>(ch) << endl;
 
     return 0;
 }
