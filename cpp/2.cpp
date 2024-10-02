@@ -21,6 +21,7 @@ int main()
 */
 
 // 2-2 사용자 입력과 string
+/*
 #include <iostream>
 
 using namespace std;
@@ -35,7 +36,20 @@ int main()
     // char1 = char2;
     str1 = str2;
 
-    cout << str1[0] << endl;
+    cout << str1 << endl;       // panda
+    cout << str1[0] << endl;    // p
+
+    return 0;
+}
+*/
+
+// 2-3 구조체
+#include <iostream>
+
+using namespace std;
+
+int main() 
+{
 
     return 0;
 }
