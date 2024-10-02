@@ -1,4 +1,5 @@
 // 2-1 배열과 char 문자열
+/*
 #include <iostream>
 
 using namespace std;
@@ -14,6 +15,27 @@ int main()
     char b[] = "hello";
 
     cout << b << endl;
+
+    return 0;
+}
+*/
+
+// 2-2 사용자 입력과 string
+#include <iostream>
+
+using namespace std;
+
+int main() 
+{
+    // string의 장점 : 배열을 다른 배열에 통째로 대입 할 수 있다.
+    char char1[20];
+    char char2[20] = "jauar";
+    string str1;
+    string str2 = "panda";
+    // char1 = char2;
+    str1 = str2;
+
+    cout << str1[0] << endl;
 
     return 0;
 }
