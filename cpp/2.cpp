@@ -50,6 +50,43 @@ using namespace std;
 
 int main() 
 {
+    // 구조체 : 다른 데이터형이 허용되는 데이터의 집합
+
+    //축구선수
+    struct MyStruct
+    {
+        string name;
+        string position;
+        int height;
+        int weight;
+    } B;
+    
+    /*
+    MyStruct A = {
+        "Son",
+        "striker",
+        183,
+        77
+    };
+
+    
+    //cout << A.name << endl;
+    //cout << A.position << endl;
+    //cout << A.height << endl;
+    //cout << A.weight << endl;
+    
+
+    B = {};
+
+    cout << B.height << endl;
+    */
+
+    MyStruct A[2] = {
+        {"A", "B", 1, 2},
+        {"C", "D", 3, 4}
+    };
+
+    cout << A[1].name << endl;
 
     return 0;
 }
