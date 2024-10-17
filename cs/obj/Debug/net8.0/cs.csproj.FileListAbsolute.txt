@@ -1,0 +1,15 @@
+/Users/jeongdaeyeong/Desktop/Develop/cs/bin/Debug/net8.0/cs
+/Users/jeongdaeyeong/Desktop/Develop/cs/bin/Debug/net8.0/cs.deps.json
+/Users/jeongdaeyeong/Desktop/Develop/cs/bin/Debug/net8.0/cs.runtimeconfig.json
+/Users/jeongdaeyeong/Desktop/Develop/cs/bin/Debug/net8.0/cs.dll
+/Users/jeongdaeyeong/Desktop/Develop/cs/bin/Debug/net8.0/cs.pdb
+/Users/jeongdaeyeong/Desktop/Develop/cs/obj/Debug/net8.0/cs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeongdaeyeong/Desktop/Develop/cs/obj/Debug/net8.0/cs.AssemblyInfoInputs.cache
+/Users/jeongdaeyeong/Desktop/Develop/cs/obj/Debug/net8.0/cs.AssemblyInfo.cs
+/Users/jeongdaeyeong/Desktop/Develop/cs/obj/Debug/net8.0/cs.csproj.CoreCompileInputs.cache
+/Users/jeongdaeyeong/Desktop/Develop/cs/obj/Debug/net8.0/cs.sourcelink.json
+/Users/jeongdaeyeong/Desktop/Develop/cs/obj/Debug/net8.0/cs.dll
+/Users/jeongdaeyeong/Desktop/Develop/cs/obj/Debug/net8.0/refint/cs.dll
+/Users/jeongdaeyeong/Desktop/Develop/cs/obj/Debug/net8.0/cs.pdb
+/Users/jeongdaeyeong/Desktop/Develop/cs/obj/Debug/net8.0/cs.genruntimeconfig.cache
+/Users/jeongdaeyeong/Desktop/Develop/cs/obj/Debug/net8.0/ref/cs.dll
