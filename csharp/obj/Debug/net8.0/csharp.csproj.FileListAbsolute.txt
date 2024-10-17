@@ -1,0 +1,15 @@
+/Users/jeongdaeyeong/Desktop/Develop/csharp/bin/Debug/net8.0/csharp
+/Users/jeongdaeyeong/Desktop/Develop/csharp/bin/Debug/net8.0/csharp.deps.json
+/Users/jeongdaeyeong/Desktop/Develop/csharp/bin/Debug/net8.0/csharp.runtimeconfig.json
+/Users/jeongdaeyeong/Desktop/Develop/csharp/bin/Debug/net8.0/csharp.dll
+/Users/jeongdaeyeong/Desktop/Develop/csharp/bin/Debug/net8.0/csharp.pdb
+/Users/jeongdaeyeong/Desktop/Develop/csharp/obj/Debug/net8.0/csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeongdaeyeong/Desktop/Develop/csharp/obj/Debug/net8.0/csharp.AssemblyInfoInputs.cache
+/Users/jeongdaeyeong/Desktop/Develop/csharp/obj/Debug/net8.0/csharp.AssemblyInfo.cs
+/Users/jeongdaeyeong/Desktop/Develop/csharp/obj/Debug/net8.0/csharp.csproj.CoreCompileInputs.cache
+/Users/jeongdaeyeong/Desktop/Develop/csharp/obj/Debug/net8.0/csharp.sourcelink.json
+/Users/jeongdaeyeong/Desktop/Develop/csharp/obj/Debug/net8.0/csharp.dll
+/Users/jeongdaeyeong/Desktop/Develop/csharp/obj/Debug/net8.0/refint/csharp.dll
+/Users/jeongdaeyeong/Desktop/Develop/csharp/obj/Debug/net8.0/csharp.pdb
+/Users/jeongdaeyeong/Desktop/Develop/csharp/obj/Debug/net8.0/csharp.genruntimeconfig.cache
+/Users/jeongdaeyeong/Desktop/Develop/csharp/obj/Debug/net8.0/ref/csharp.dll
